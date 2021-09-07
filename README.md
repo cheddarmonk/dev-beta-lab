@@ -7,10 +7,10 @@ Dev Beta is designed to bring about familarilty with GitHub, Heroku, and the pro
 ## Table of Contents
 
 - [Dev Process](#dev-process)
-- [Let's Git Into It! Heroku](*let's-git-into-it)
-- [Your First App](*your-first-app)
-- [Committing Changes](*committing-changes)
-- [Finale](finale)
+- [Let's Git Into It! Heroku](#let's-git-into-it)
+- [Your First App](#your-first-app)
+- [Committing Changes](#committing-changes)
+- [Finale](#finale)
 
 
 ## Dev Process:

@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', function(req, res){
 
-    res.send('<h3>Hello Node on Heroku </h3> <a href="https://github.com/cheddarmonk/dev-beta-lab">GitHub</a>');
+    res.send('<h3>Hello Node on Heroku </h3>');
 
 });
 

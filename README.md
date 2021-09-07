@@ -47,7 +47,7 @@ The first thing to do is to set-up your very own Heroku account by finishing the
 ## Committing Changes
 Now lets head to Visual Studio. VS has a plethora of extensions to help us manage GitHub Repos and helps us to streamline the process. I recommend using the VS extension `GitHub Pull Request and Issues` which can be searched by accessing the extension browser in VS Studio. This extension allows us to pull, commit, and push changes
 
-* ![Git Extension](\images\Capture7.PNG)
+* ![Git Extension](images\Capture7.PNG)
 
 * Terminology 
   * Pull - download a copy of a GitHub Repository
@@ -57,19 +57,20 @@ Now lets head to Visual Studio. VS has a plethora of extensions to help us manag
 * The first thing (if you haven't done so) is to log in to GitHub with VS to authenicate your workstation
   * On the bottom left of the VS Hud you will see a little profile picture 
   
-    ![Git Extension](\images\Capture8.PNG)
+    ![Account Icon](images\Capture8.PNG)
 
   *  Click on it and use the option to sync with GitHub.
 
 *  Once that has been synced, you can now make changes easily.
 *  On the left hand side you can see the a fork icon icon (Called Source Control), this will open the GitHub menu allowing you to pull, commit, and push changes you make to GitHub. 
   
-   ![Git Extension](images\Capture9.PNG)
+   ![Source Control](images\Capture9.PNG)
 
 * Once a change has been saved in VS, it wil appear under the Source Control menu. Clicking the plus icon will add the change to your next save. Click the check mark to commit the change, and commit bar will pop up in the center top of the page allowing you to make comments on what was changed for reference.
   
-   ![Git Extension](images\Capture10.PNG)
-    ![Git Extension](images\Capture11.PNG)
+   ![Stage Change](images\Capture10.PNG)
+   ![Commit Changg](images\Capture11.PNG)
 
-    
-  
+* Once it has been committed, click on the three dots to the right of the Checkmark, find the Push option, and this will push your changes to GitHub, and then to Heroku!
+
+    ![Push](images\Capture12.PNG)

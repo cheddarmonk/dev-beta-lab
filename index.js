@@ -11,7 +11,7 @@ app.get('/', function(req, res){
 
 app.get('/about', function(req, res){
 
-    res.send('<h3>All info is found on the READ.ME</h3>');
+    res.sendFile('\README.md');
 
 });
 

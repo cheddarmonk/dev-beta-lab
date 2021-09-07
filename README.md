@@ -62,4 +62,14 @@ Now lets head to Visual Studio. VS has a plethora of extensions to help us manag
   *  Click on it and use the option to sync with GitHub.
 
 *  Once that has been synced, you can now make changes easily.
-*  On the left hand side you can see the a fork icon icon, 
+*  On the left hand side you can see the a fork icon icon (Called Source Control), this will open the GitHub menu allowing you to pull, commit, and push changes you make to GitHub. 
+  
+   ![Git Extension](images\Capture9.PNG)
+
+* Once a change has been saved in VS, it wil appear under the Source Control menu. Clicking the plus icon will add the change to your next save. Click the check mark to commit the change, and commit bar will pop up in the center top of the page allowing you to make comments on what was changed for reference.
+  
+   ![Git Extension](images\Capture10.PNG)
+    ![Git Extension](images\Capture11.PNG)
+
+    
+  

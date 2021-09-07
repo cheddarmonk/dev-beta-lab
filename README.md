@@ -45,5 +45,21 @@ The first thing to do is to set-up your very own Heroku account by finishing the
 
 
 ## Committing Changes
-Now lets head to Visual Studio and make our first change!
+Now lets head to Visual Studio. VS has a plethora of extensions to help us manage GitHub Repos and helps us to streamline the process. I recommend using the VS extension `GitHub Pull Request and Issues` which can be searched by accessing the extension browser in VS Studio. This extension allows us to pull, commit, and push changes
 
+* ![Git Extension](images\Capture7.PNG)
+
+* Terminology 
+  * Pull - download a copy of a GitHub Repository
+  * Commit - Save Changes to your repo copy
+  * Push - Upload your saved changes to GitHub
+
+* The first thing (if you haven't done so) is to log in to GitHub with VS to authenicate your workstation
+  * On the bottom left of the VS Hud you will see a little profile picture 
+  
+    ![Git Extension](images\Capture8.PNG)
+
+  *  Click on it and use the option to sync with GitHub.
+
+*  Once that has been synced, you can now make changes easily.
+*  On the left hand side you can see the a fork icon icon, 

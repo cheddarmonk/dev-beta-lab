@@ -24,7 +24,7 @@ This lab will guide you through the following processes
 
 ***
 
-## Let's Git Into It!
+### Let's Git Into It!
 
 ## Heroku
 The first thing to do is to set-up your very own Heroku account by finishing the sign-up process here: [Heroku's Website.](www.heroku.com) ![Login](https://github.com/cheddarmonk/dev-beta-lab/blob/main/images/Capture1.PNG)
@@ -33,7 +33,7 @@ The first thing to do is to set-up your very own Heroku account by finishing the
 * Congrats next on to connecting your GitHub project to Heroku!
 
 
-## Your First App
+### Your First App
 * Once you have logged in to Heroku you should be at a page like this ![Dashboard](https://github.com/cheddarmonk/dev-beta-lab/blob/main/images/Capture2.PNG)
 * Click on the *New*  button on the top right and select New App
 * Enter your app's name and create the app
@@ -53,7 +53,7 @@ The first thing to do is to set-up your very own Heroku account by finishing the
   * ![Auto Deploy](https://github.com/cheddarmonk/dev-beta-lab/blob/main/images/Capture6.PNG)
 
 
-## Committing Changes
+### Committing Changes
 Now lets head to Visual Studio. VS has a plethora of extensions to help us manage GitHub Repos and helps us to streamline the process. I recommend using the VS extension `GitHub Pull Request and Issues` which can be searched by accessing the extension browser in VS Studio. This extension allows us to pull, commit, and push changes
 
 * ![Git Extension](https://github.com/cheddarmonk/dev-beta-lab/blob/main/images/Capture7.PNG)
@@ -86,6 +86,6 @@ Now lets head to Visual Studio. VS has a plethora of extensions to help us manag
     
 
 
-** Finale
+### Finale
 
 The final thing to do is to wait for Heroku to adapt the changes you make into your app. You can watch this by Heading back to [Heroku's Website.](www.heroku.com). From there access your app and watch as it will deploy the changes you've made to Heroku automatically! Congrats one making a New App! :satisfied:

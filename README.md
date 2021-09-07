@@ -4,6 +4,15 @@
 
 Dev Beta is designed to bring about familarilty with GitHub, Heroku, and the process of commiting changes to your builds. This helps to set the foudnation for better pipeline mechanics to ensure a stramlined process to the success of future endavors. 
 
+## Table of Contents
+
+- [Dev Process](#dev-process)
+- [Let's Git Into It! Heroku](*let's-git-into-it)
+- [Your First App](*your-first-app)
+- [Committing Changes](*committing-changes)
+- [Finale](finale)
+
+
 ## Dev Process:
 
 This lab will guide you through the following processes
@@ -74,3 +83,9 @@ Now lets head to Visual Studio. VS has a plethora of extensions to help us manag
 * Once it has been committed, click on the three dots to the right of the Checkmark, find the Push option, and this will push your changes to GitHub, and then to Heroku!
 
     ![Push](https://github.com/cheddarmonk/dev-beta-lab/blob/main/images/Capture12.PNG)
+    
+
+
+** Finale
+
+The final thing to do is to wait for Heroku to adapt the changes you make into your app. You can watch this by Heading back to [Heroku's Website.](www.heroku.com). From there access your app and watch as it will deploy the changes you've made to Heroku automatically! Congrats one making a New App! :satisfied:
